@@ -1,3 +1,15 @@
 {
-  "transactions": []
+  "transactions": [
+    {
+      "id":
+      "Name":
+      "Number":
+      "IssuedBy":
+      "Classification":
+      "Confidentiality":
+      "IssuedDep":
+      "ToBoxNames":
+      "CcBoxNames":
+    }
+  ]
 }
